@@ -16,7 +16,7 @@
 <a href="https://twitter.com/sagarr03540740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarr03540740" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100082090667190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100082090667190" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_r_7488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_r_7488" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@manashr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manashr2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@manashr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manashr2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
