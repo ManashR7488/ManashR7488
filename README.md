@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Node js**
 
-- 📫 How to reach me **manashranjanmahanand@gmail.com**
+- 📫 How to reach me **mahanandmanash91@gmail.com**
 
 - ⚡ Fun fact **I am very cool😎😎**
 
