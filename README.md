@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" alt="profile">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manashr7488&label=Profile%20views&color=0e75b6&style=flat" alt="manashr7488" /> </p>
 
-- 🌱 I’m currently learning **React and Node js**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **mahanandmanash91@gmail.com**
 
