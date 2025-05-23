@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I am very cool😎😎**
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/profile.php?id=100082090667190) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar_r_6452) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-ranjan-mahanand-r27488) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sagarr03540740) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@manashr2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/manash-ranjan-mahanand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahanandmanash91@gmail.com)
 
 
