@@ -1,7 +1,7 @@
 ![logo](https://github.com/ManashR7488/ManashR7488/blob/main/Manash%20Ranjan.png)
 <h1 align="center">Hi 👋, I'm Manash Ranjan</h1>
 <h3 align="center">A passionate web developer with a keen interest in emerging technologies.</h3>
-<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=HkN6gZbpfAZ0k5Xb88iQXfQpbeKR-YHIKCvzI0gbIhM" alt="profile">
+<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952y8npo5sz9py89gesi406r2jwycd1q3tyv9xt9jph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="profile">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manashr7488&label=Profile%20views&color=0e75b6&style=flat" alt="manashr7488" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing**
