@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952y8npo5sz9py89gesi406r2jwycd1q3tyv9xt9jph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="profile">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manashr7488&label=Profile%20views&color=0e75b6&style=flat" alt="manashr7488" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Agentic Ai , LangChain, LangGraph, LangSmit, n8n**
 
 - 📫 How to reach me **mahanandmanash91@gmail.com**
 
