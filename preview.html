@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile README preview</title>
+<style>
+  :root { --bg:#0d1117; --fg:#e6edf3; --muted:#8d96a0; --line:#30363d; --link:#4493f8; --card:#0d1117; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; background: #010409; color: #e6edf3; }
+  .controls { position: sticky; top: 0; z-index: 2; display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: center; justify-content: center; padding: 12px 16px; background: #010409ee; border-bottom: 1px solid #30363d; }
+  .controls span { color: #8d96a0; margin-right: 4px; }
+  .controls label { cursor: pointer; padding: 4px 10px; border: 1px solid #30363d; border-radius: 999px; }
+  input { position: absolute; opacity: 0; pointer-events: none; }
+  #t-light:checked ~ .controls label[for="t-light"], #t-dark:checked ~ .controls label[for="t-dark"],
+  #w-desk:checked ~ .controls label[for="w-desk"], #w-phone:checked ~ .controls label[for="w-phone"] { background: #247bff; border-color: #247bff; color: #fff; }
+  .stage { padding: 24px 16px 64px; }
+  .readme { margin: 0 auto; width: 100%; max-width: 830px; padding: 24px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--fg); transition: max-width .2s; }
+  #w-phone:checked ~ .stage .readme { max-width: 390px; padding: 16px; }
+  #t-light:checked ~ .stage .readme { --card:#ffffff; --fg:#1f2328; --muted:#59636e; --line:#d1d9e0; --link:#0969da; }
+  .readme p { margin: 0 0 16px; }
+  .readme p[align="center"] { text-align: center; }
+  .readme img { max-width: 100%; height: auto; }
+  .readme h2 { font-size: 1.5em; margin: 24px 0 16px; padding-bottom: .3em; border-bottom: 1px solid var(--line); }
+  .readme a { color: var(--link); text-decoration: none; }
+  .readme a:hover { text-decoration: underline; }
+  .table-wrap { overflow-x: auto; margin-bottom: 16px; }
+  table { border-collapse: collapse; width: max-content; max-width: 100%; }
+  th, td { border: 1px solid var(--line); padding: 6px 13px; vertical-align: top; }
+  th { font-weight: 600; }
+  sub { color: var(--muted); }
+  .note { max-width: 830px; margin: 0 auto 16px; color: #8d96a0; font-size: 13px; text-align: center; }
+</style>
+</head>
+<body>
+<input type="radio" name="theme" id="t-dark" checked>
+<input type="radio" name="theme" id="t-light">
+<input type="radio" name="width" id="w-desk" checked>
+<input type="radio" name="width" id="w-phone">
+<div class="controls">
+  <div><span>Theme</span> <label for="t-dark">GitHub dark</label> <label for="t-light">GitHub light</label></div>
+  <div><span>Width</span> <label for="w-desk">README (830 px)</label> <label for="w-phone">Phone (390 px)</label></div>
+</div>
+<div class="stage">
+  <p class="note">Local preview of README.md. Open this file from the repository folder so the relative <code>assets/</code> paths resolve. Animations restart on reload.</p>
+  <article class="readme">
+    <p align="center"><img src="./assets/hero.svg?v=1" width="100%" alt="Hero"></p>
+    <p align="center"><img src="./assets/about-life.svg?v=1" width="100%" alt="What I build and off the clock"></p>
+    <p align="center"><img src="./assets/stack.svg?v=1" width="100%" alt="Tech stack"></p>
+    <p align="center"><img src="./assets/id-dashboard.svg?v=1" width="100%" alt="ID card and GitHub numbers"></p>
+    <h2>Featured projects</h2>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Project</th><th>What it does</th></tr></thead>
+      <tbody>
+        <tr><td><b>OpenPin Cloud</b><br><a href="https://github.com/ManashR7488/OpenPin-Cloud">Code</a> · <a href="https://openpin-cloud.vercel.app">Live</a></td><td>IoT cloud platform for ESP32 / ESP8266 and Arduino boards: define virtual pins, manage projects and devices, and monitor or control them from a real-time dashboard.<br><sub><b>Built with:</b> React · Node.js / Express · MongoDB · MQTT · WebSockets</sub></td></tr>
+        <tr><td><b>YojanaHarvest</b><br><a href="https://github.com/ManashR7488/YojanaHarvest">Code</a></td><td>Automated pipeline that extracts report data from Indian government scheme portals (MGNREGA, SBM, JJM, PMAYG, eGram) and saves structured Excel reports.<br><sub><b>Built with:</b> Python · Playwright · Gemini (CAPTCHA solving) · LangGraph</sub></td></tr>
+        <tr><td><b>MarkFlow</b><br><a href="https://github.com/ManashR7488/MarkFlow">Code</a> · <a href="https://markflow.manash.in/">Live</a></td><td>Privacy-focused, distraction-free Markdown editor with real-time GitHub-Flavored Markdown preview, Google Drive sync, local vault encryption and AI-assisted writing.<br><sub><b>Built with:</b> TypeScript · React 19 · Vite · Tailwind CSS v4 · Google GenAI</sub></td></tr>
+      </tbody>
+    </table></div>
+    <p align="center"><img src="./assets/connect.svg?v=1" width="100%" alt="Let's connect"></p>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/manash-ranjan-mahanand-r27488/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://github.com/ManashR7488"><b>GitHub</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://www.youtube.com/@manashr2"><b>YouTube</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="https://www.instagram.com/manash_r_6452/"><b>Instagram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+      <a href="mailto:mahanandmanash91@gmail.com"><b>Email</b></a>
+    </p>
+    <p align="center"><sub>Animated cards are self-contained SVGs. Fonts: Bricolage Grotesque &amp; JetBrains Mono (SIL OFL 1.1) · Icons: Simple Icons (CC0) · Details in <a href="./assets/CREDITS.md">assets/CREDITS.md</a>.</sub></p>
+  </article>
+</div>
+</body>
+</html>
