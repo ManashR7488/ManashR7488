@@ -1,37 +1,37 @@
-![logo](https://github.com/ManashR7488/ManashR7488/blob/main/banner.gif)
-<h1 align="center">Hi 👋, I'm Manash Ranjan</h1>
-<h3 align="center">Artificial Intelligence and Machine Learning Forward Deployed full-stack Engineer specializing in web, IoT, native, and intelligent automation solutions. I build scalable applications, AI-powered workflows, and device integrations using Python, JavaScript, Node.js, React, and modern backend tools. Experienced in designing robust APIs, real-time systems, and cloud-ready deployments, I focus on turning data into actionable insights through automation, intelligent processing, and practical software engineering. A collaborative problem-solver, I write clean, maintainable code and deliver production-ready features that simplify workflows and improve decision-making</h3>
-<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952y8npo5sz9py89gesi406r2jwycd1q3tyv9xt9jph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="profile">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manashr7488&label=Profile%20views&color=0e75b6&style=flat" alt="manashr7488" /> </p>
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi there, I'm Manash Ranjan — Forward Deployed Engineer, AI / ML Engineer, Full-stack Developer, IoT &amp; Automation Builder. I turn data into decisions with AI workflows, web apps &amp; IoT. Bargarh, Odisha, India · AI/ML Forward Deployed Engineer." />
+</p>
 
-- 🌱 I’m currently learning **Agentic Ai , LangChain, LangGraph, LangSmit, n8n**
+<p align="center">
+  <img src="./assets/about-life.svg?v=1" width="100%" alt="What I build: AI workflows &amp; agents (LangChain, LangGraph &amp; Gemini pipelines); full-stack web apps (React + Node/Express APIs on MongoDB); IoT &amp; device integration (ESP32 &amp; Arduino over MQTT and WebSockets); automation &amp; data pipelines (Playwright scrapers that ship Excel reports). Off the clock: 3D art in Blender, electronics tinkering, hackathons." />
+</p>
 
-- 📫 How to reach me **mahanandmanash91@gmail.com**
+<p align="center">
+  <img src="./assets/stack.svg?v=1" width="100%" alt="Tech stack. Languages: Python, JavaScript, TypeScript, C++, C, Java. Frontend: React, Tailwind CSS, Vite, Three.js, GSAP. Backend &amp; data: Node.js, Express, FastAPI, Flask, MongoDB, MySQL, Socket.io. AI / ML: LangChain, LangGraph, Gemini API, TensorFlow, PyTorch, scikit-learn. IoT &amp; automation: ESP32, Arduino, Raspberry Pi, MQTT, Playwright, n8n. Cloud &amp; tools: Docker, AWS EC2, Vercel, Firebase, Git, Postman." />
+</p>
 
-- ⚡ Fun fact **I am very cool😎😎**
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Developer ID card for Manash Ranjan Mahanand (@ManashR7488). GitHub API, public data as of 05 Nov 2026: 50 public repositories, 20 stars on public repos, 15 followers, on GitHub since March 2024. Primary languages across public repos: JavaScript 26, HTML 6, Python 5, CSS 2, other 3, not set 8." />
+</p>
 
-### 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/profile.php?id=100082090667190) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar_r_6452) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manash-ranjan-mahanand-r27488) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sagarr03540740) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@manashr2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/manash-ranjan-mahanand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahanandmanash91@gmail.com)
+## Featured projects
 
+| Project | What it does |
+| --- | --- |
+| **OpenPin Cloud**<br>[Code](https://github.com/ManashR7488/OpenPin-Cloud) · [Live](https://openpin-cloud.vercel.app) | IoT cloud platform for ESP32 / ESP8266 and Arduino boards: define virtual pins, manage projects and devices, and monitor or control them from a real-time dashboard.<br><sub>**Built with:** React · Node.js / Express · MongoDB · MQTT · WebSockets</sub> |
+| **YojanaHarvest**<br>[Code](https://github.com/ManashR7488/YojanaHarvest) | Automated pipeline that extracts report data from Indian government scheme portals (MGNREGA, SBM, JJM, PMAYG, eGram) and saves structured Excel reports.<br><sub>**Built with:** Python · Playwright · Gemini (CAPTCHA solving) · LangGraph</sub> |
+| **MarkFlow**<br>[Code](https://github.com/ManashR7488/MarkFlow) · [Live](https://markflow.manash.in/) | Privacy-focused, distraction-free Markdown editor with real-time GitHub-Flavored Markdown preview, Google Drive sync, local vault encryption and AI-assisted writing.<br><sub>**Built with:** TypeScript · React 19 · Vite · Tailwind CSS v4 · Google GenAI</sub> |
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c8c9cb) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) <br/>
+<p align="center">
+  <img src="./assets/connect.svg?v=1" width="100%" alt="Let's connect: LinkedIn, GitHub, YouTube, Instagram and Email. The clickable links are listed below." />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manash-ranjan-mahanand-r27488/"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ManashR7488"><b>GitHub</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@manashr2"><b>YouTube</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/manash_r_6452/"><b>Instagram</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:mahanandmanash91@gmail.com"><b>Email</b></a>
+</p>
 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/manashr7488?cardType=github&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manashr7488&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manashr7488&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manashr7488&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manashr7488&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=manashr7488&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><sub>Animated cards are self-contained SVGs. Fonts: Bricolage Grotesque &amp; JetBrains Mono (SIL OFL 1.1) · Icons: Simple Icons (CC0) · Details in <a href="./assets/CREDITS.md">assets/CREDITS.md</a>.</sub></p>
